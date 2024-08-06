@@ -1,4 +1,4 @@
-name: Slide Build CI
+name: Slides Build CI
 
 on:
   push:
