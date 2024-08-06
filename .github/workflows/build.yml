@@ -36,7 +36,7 @@ jobs:
     - name: Upload SPA artifact
       uses: actions/upload-artifact@v4
       with:
-        name: artifact.zip
+        name: dist
         path: dist
     - name: Upload PDF
       uses: actions/upload-artifact@v4
