@@ -2,15 +2,14 @@
 import SlideLogo from '../components/SlideLogo.vue'
 
 const props = defineProps({
-  ...SlideLogo.props,
+    ...SlideLogo.props,
 })
+
 </script>
 
 <template>
-  <div class="slidev-layout quote">
-    <div class="my-auto">
-      <SlideLogo v-bind="$props" />
-      <slot />
+    <div class="slidev-layout default">
+        <SlideLogo v-bind="$props" />
+        <slot />
     </div>
-  </div>
 </template>
