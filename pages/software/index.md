@@ -8,7 +8,7 @@
 
 对于有能力的同学：搜索教程类的建议是**官方文档**，尽量不要找CSDN等搬运，抄袭的内容。很容易出现内容过时，确实关键步骤等问题。
 
-英文看不懂？推荐**沉浸式翻译**浏览器插件
+英文看不懂？推荐[**沉浸式翻译**](https://immersivetranslate.com/)浏览器插件
 
 ---
 
@@ -66,7 +66,7 @@
 
 ### 输入法
 
-历史回顾
+#### 历史回顾
 
 1. 某狗输入法绕过Windows锁屏高危漏洞:
 
@@ -107,6 +107,16 @@
 
 * [相关链接: McAfee曝某狗输入法窃取用户数据并通过明文传输](https://www.landiannews.com/archives/14132.html)
 * 时间: 2015年1月20日
+
+---
+
+#### 如果确实不习惯微软词库少
+
+推荐：[雾凇拼音方案（需要一些技术基础）](https://github.com/iDvel/rime-ice)
+
+[教程-更好用的开源输入法：Rime + 雾凇拼音](https://zhuanlan.zhihu.com/p/676931217)
+
+<ImageWithHint src="../../images/rime-ice.webp" alt="小狼毫雾凇拼音方案" imgClass="h-80" class="w-fit m-auto" />
 
 ---
 
@@ -248,6 +258,19 @@ hideLogo: true
 <ImageWithHint src="../../images/campus_net_selfservice_screenshot.jpg" alt="校园网自服务平台" imgClass="h-110" class="w-fit m-auto" />
 
 ---
+
+### NFC（仅限安卓）
+
+学校NFC可以刷房门和食堂部分机器
+
+<div style="display: flex; justify-content: space-around;">
+<ImageWithHint src="../../images/NFC1.jpg" alt="1.下载北京一卡通" imgClass="h-80" class="w-fit m-auto" />
+<ImageWithHint src="../../images/NFC2.jpg" alt="2.添加学生卡" imgClass="h-80" class="w-fit m-auto" />
+<ImageWithHint src="../../images/NFC3.jpg" alt="3.添加成功" imgClass="h-80" class="w-fit m-auto" />
+<ImageWithHint src="../../images/NFC4.jpg" alt="4.NFC模拟校园卡" imgClass="h-80" class="w-fit m-auto" />
+</div>
+
+---
 layout: section
 ---
 
@@ -268,79 +291,12 @@ logoPosition: top-right
 <ImageWithHint src="../../images/buctbase_screenshot.png" alt="BUCT BASE" imgClass="h-100 m-4" class="w-fit m-auto" />
 
 ---
-hideLogo: true
----
-
-
-## SNC介绍
-
-中文全称：学生网络中心
-
-英文全称：Student Network Center
-
-英文简称：SNC
-
-![带有文字学生网络中心(Student Network Center)的SNC Logo](../../images/SNC_logo_with_text.svg)​
-
----
 layout: two-cols-header
 ---
 
-### 荣誉
+### X-ware
 
 ::left::
-
-<ImageWithHint src="../../images/SNC_学生实践创新基地.png" alt="我校学生实践创新基地" imgClass="h-70 m-4" class="w-fit m-auto" />
-
-::right::
-
-<ImageWithHint src="../../images/SNC_第二课堂人才培养基地.png" alt="我校第二课堂人才培养基地" imgClass="h-70 m-4" class="w-fit m-auto" />
-
----
-
-### 部门
-
-* 办公室
-
-  智慧与筹略兼备，管理与服务并存
-
-  用心清点，以心记录。负责学生网络中心人事和财物的管理、各部门工作进程的统筹、交流等工作
-* 开发部
-
-  代码激发创意，技术编织未来
-
-  从网站开发到小程序开发，负责软件系统的设计、开发，注重软件开发综合能力的提升
-
----
-
-* 系统维护部
-
-  技术运维、多方位学习、提供全面服务
-
-  负责服务器的架设、运营管理和维护注重计算机硬件及系统、网络知识。作为为校园网络生活默默护航的神奇伙伴负责网站的管理和维护工作，也为我校师生提供X-ware等服务
-* 媒体宣传部
-
-  以独特来诠释媒体，用思辨运营推广
-
-  负责校园网络社区和SNC微信公众号的运营管理以及网络层面宣传，永远保持热忱面向由网络连接的你我。
-* UI设计部
-
-  设计就是空间、色彩、设计回归本位
-
-  负责中心的平面设计及网页设计，参与SNC日常办公以及大型活动等特色设计品的设计制作，注重审美、设计理念和用户体验
-
----
-
-### 活动
-
-* **网络文明周**
-
-  网络文明周活动于2007年4月开始举办，主要目的是宣传网络文明知识开展网络道德及网络法制教育，倡导文明上网，普及电脑及网络知识，调动学生学习计算机网络知识的积极性与主动性，通过丰富多彩的活动形式，活跃校园文化。
-  <ImageWithHint src="../../images/ARG.png" alt="线上ARG活动" imgClass="h-60" class="w-fit m-auto" />
-
----
-
-* **X-ware**
 
 X-ware服务是学生网络中心为全校同学**义务**提供的电脑维修服务，至今已有20年的历史。主要工作包括：
 
@@ -354,11 +310,17 @@ X-ware服务是学生网络中心为全校同学**义务**提供的电脑维修�
 - 硬盘清理
 - 解决电脑蓝屏问题
 
+::right::
+
+<ImageWithHint src="../../images/X-ware.jpg" alt="添加内存" imgClass="h-90" class="w-fit m-auto" />
+
 ---
-layout: two-cols-header
+hideLogo: true
 ---
 
 ## **联系我们**
+
+##
 
 有疑问？
 
@@ -366,7 +328,7 @@ layout: two-cols-header
 
 仍有问题？
 
-关注“学生网络中心”公众号，预约X-ware服务。每周五晚，我们在后勤楼319提供X-ware志愿服务，解决您的一切硬件和软件问题，竭诚为您服务。
+关注“**学生网络中心**”公众号，预约X-ware服务。**每周五晚**，我们在**后勤楼319**提供X-ware志愿服务，解决您的一切硬件和软件问题，竭诚为您服务。
 
 X-ware，跨越硬件与软件的桥梁！
 
