@@ -176,6 +176,7 @@ hideLogo: true
 ---
 layout: image
 image: /images/ababa.png
+
 backgroundSize: 20em
 ---
 
@@ -210,12 +211,11 @@ code {
   --uno: 'dark !text-7xl'
 }
 </style>
-
-`NVIDIA RTX 4060 8GB`
+`NVIDIA RTX 5060 8GB`
 
 ---
 layout: iframe
-url: https://www.mydrivers.com/zhuanti/tianti/gpum/
+url: [笔记本移动显卡排行榜 - 快科技天梯榜](https://rank.kkj.cn/Computer75.shtml)
 ---
 
 <!-- 代际比较
@@ -287,7 +287,7 @@ layout: center
   <QRCodeWithHint
     :width="180"
     type="canvas"
-    data="https://www.mydrivers.com/zhuanti/tianti/gpum/"
+    data="https://rank.kkj.cn/Computer75.shtml"
     :imageOptions="{ margin: 10 }"
     :dotsOptions="{ type: 'extra-rounded'}"
     hint="移动端显卡"
@@ -309,6 +309,7 @@ layout: center
     hint="桌面端显卡"
   />
 </div>
+
 
 ---
 
