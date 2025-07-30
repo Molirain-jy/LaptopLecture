@@ -168,7 +168,7 @@ hideLogo: true
 ---
 
 <div class="overflow-y-auto h-150 w-full px-16">
-  <img src="/images/geforce_laptops_compare.png" class="w-full h-fit" />
+  <img src="/images/new_geforce_laptops_compare.jpeg" class="w-full h-fit" />
 </div>
 
 <!-- From: https://www.nvidia.cn/geforce/laptops/compare/ -->
