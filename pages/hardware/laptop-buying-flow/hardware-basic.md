@@ -122,7 +122,6 @@ background: stone-900
     轻娱乐/办公
   </div>
 </div>
-
 <!-- 前三者：游戏模式，耗电嗷嗷快
 后三者：省电模式，耗电慢点，当然性能也差点 -->
 
@@ -214,9 +213,14 @@ code {
 `NVIDIA RTX 5060 8GB`
 
 ---
-layout: iframe
-url: [笔记本移动显卡排行榜 - 快科技天梯榜](https://rank.kkj.cn/Computer75.shtml)
+layout: fullpage
+background: black
+hideLogo: true
 ---
+
+<div class="overflow-y-auto h-150 w-full px-16">
+  <img src="/images/gpu_ranking.jpeg" class="w-full h-fit" />
+</div>
 
 <!-- 代际比较
 当然，你也可以选择查询天梯图，会更加准确 -->
